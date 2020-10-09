@@ -1,2 +1,2 @@
 # patterns-in-programming
-programs in c++ displaying intermediate level pattern
+programs to display some cool patterns
